@@ -8,4 +8,6 @@ tags: ["this", "post", "also", "has", "some", "tags"]
 
 This is a third fake blog that I added (with tags) to push to GitHub Pages.
 
+It has yaml front matter.
+
 ## Cool!

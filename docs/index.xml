@@ -18,6 +18,7 @@
       
       <guid>https://oct8l.github.io/crab-example/blog/2018/03/a-third-blog/</guid>
       <description> This is a third fake blog that I added (with tags) to push to GitHub Pages.
+It has yaml front matter.
 Cool! </description>
     </item>
     

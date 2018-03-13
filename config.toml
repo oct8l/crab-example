@@ -1,7 +1,8 @@
 languageCode = "en-us"
 title = "Crab"
 theme = "crab"
-baseurl = "https://example.com"
+baseurl = "https://oct8l.github.io/crab-example/"
+publishDir = "docs"
 
 [params]
 description = "A clean Hugo theme for websites"

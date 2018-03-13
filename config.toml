@@ -3,6 +3,8 @@ title = "Crab"
 theme = "crab"
 baseurl = "https://oct8l.github.io/crab-example/"
 publishDir = "docs"
+canonifyurls = "true"
+relativeURLs = "true"
 
 [params]
 description = "A clean Hugo theme for websites"

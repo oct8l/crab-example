@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/blog/2018/03/a-third-blog/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/blog/2017/03/welcome-to-my-blog/</loc>
+    <lastmod>2017-03-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/more/</loc>
+    <lastmod>2017-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/tags/</loc>
+    <lastmod>2017-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/two-column-layout/</loc>
+    <lastmod>2017-03-18T11:14:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/nested-menus/</loc>
+    <lastmod>2017-03-18T11:14:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/responsive-design/</loc>
+    <lastmod>2017-03-18T11:14:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/contact/</loc>
+    <lastmod>2017-03-18T10:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/blog/2017/02/more-blogging/</loc>
+    <lastmod>2017-02-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/more/items-to-show/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/more/the-nested-menus-feature/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/another/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/home/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/more/some-more-menu/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/nested-menus/third-level-1/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/nested-menus/third-level-2/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/nested-menus/third-level-3/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/also/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/blog/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/features/</loc>
+    <lastmod>2017-03-19T13:21:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/has/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/more/</loc>
+    <lastmod>2017-02-05T07:51:49+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/page/</loc>
+    <lastmod>2017-03-19T13:21:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/post/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/some/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/tags/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oct8l.github.io/crab-example/tags/this/</loc>
+    <lastmod>2018-03-13T11:26:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Crab</title>
+    <link>https://oct8l.github.io/crab-example/tags/tags/</link>
+    <description>Recent content in Tags on Crab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Mar 2018 11:26:26 -0500</lastBuildDate>
+    
+	<atom:link href="https://oct8l.github.io/crab-example/tags/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Third Blog</title>
+      <link>https://oct8l.github.io/crab-example/blog/2018/03/a-third-blog/</link>
+      <pubDate>Tue, 13 Mar 2018 11:26:26 -0500</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/blog/2018/03/a-third-blog/</guid>
+      <description> This is a third fake blog that I added (with tags) to push to GitHub Pages.
+Cool! </description>
+    </item>
+    
+    <item>
+      <title>Welcome to my blog</title>
+      <link>https://oct8l.github.io/crab-example/blog/2017/03/welcome-to-my-blog/</link>
+      <pubDate>Mon, 27 Mar 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/blog/2017/03/welcome-to-my-blog/</guid>
+      <description>This page is intended to give you a feeling of what a blog post looks like. Crab supports both fixed (static) pages as well as blog posts.
+In order to make blog pages work correctly, you need proper permalinks settings in your site&amp;rsquo;s config.toml.
+Hugo will then treat all files in the blog directory (for example) like blog posts.
+Have a look at the config.toml provided with this example site, as well as the page about Permalinks from the Hugo docs.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://oct8l.github.io/crab-example/features/tags/</link>
+      <pubDate>Sun, 19 Mar 2017 13:21:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/tags/</guid>
+      <description>Crab also supports tags. This page has some tags, as you can see below, although tags are probably more common with blog posts.
+If you click on a tag, you&amp;rsquo;ll be redirected to a page that shows all pages and posts with that tag. (For some tags, there is only this one page.)</description>
+    </item>
+    
+    <item>
+      <title>More blogging</title>
+      <link>https://oct8l.github.io/crab-example/blog/2017/02/more-blogging/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/blog/2017/02/more-blogging/</guid>
+      <description>This is yet another blog post to demonstrate the blog feature. It&amp;rsquo;s from a different month than other posts, to show you how the archive feature works.</description>
+    </item>
+    
+  </channel>
+</rss>

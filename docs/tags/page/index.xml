@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page on Crab</title>
+    <link>https://oct8l.github.io/crab-example/tags/page/</link>
+    <description>Recent content in Page on Crab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Mar 2017 13:21:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://oct8l.github.io/crab-example/tags/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tags</title>
+      <link>https://oct8l.github.io/crab-example/features/tags/</link>
+      <pubDate>Sun, 19 Mar 2017 13:21:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/tags/</guid>
+      <description>Crab also supports tags. This page has some tags, as you can see below, although tags are probably more common with blog posts.
+If you click on a tag, you&amp;rsquo;ll be redirected to a page that shows all pages and posts with that tag. (For some tags, there is only this one page.)</description>
+    </item>
+    
+  </channel>
+</rss>

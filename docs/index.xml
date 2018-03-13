@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crab</title>
+    <link>https://oct8l.github.io/crab-example/</link>
+    <description>Recent content on Crab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Mar 2018 11:26:26 -0500</lastBuildDate>
+    
+	<atom:link href="https://oct8l.github.io/crab-example/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Third Blog</title>
+      <link>https://oct8l.github.io/crab-example/blog/2018/03/a-third-blog/</link>
+      <pubDate>Tue, 13 Mar 2018 11:26:26 -0500</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/blog/2018/03/a-third-blog/</guid>
+      <description> This is a third fake blog that I added (with tags) to push to GitHub Pages.
+Cool! </description>
+    </item>
+    
+    <item>
+      <title>Welcome to my blog</title>
+      <link>https://oct8l.github.io/crab-example/blog/2017/03/welcome-to-my-blog/</link>
+      <pubDate>Mon, 27 Mar 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/blog/2017/03/welcome-to-my-blog/</guid>
+      <description>This page is intended to give you a feeling of what a blog post looks like. Crab supports both fixed (static) pages as well as blog posts.
+In order to make blog pages work correctly, you need proper permalinks settings in your site&amp;rsquo;s config.toml.
+Hugo will then treat all files in the blog directory (for example) like blog posts.
+Have a look at the config.toml provided with this example site, as well as the page about Permalinks from the Hugo docs.</description>
+    </item>
+    
+    <item>
+      <title>More</title>
+      <link>https://oct8l.github.io/crab-example/more/</link>
+      <pubDate>Sun, 19 Mar 2017 13:21:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/more/</guid>
+      <description>Here are a few more demo pages:
+ Some more menu items to show the nested menus feature  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://oct8l.github.io/crab-example/features/tags/</link>
+      <pubDate>Sun, 19 Mar 2017 13:21:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/tags/</guid>
+      <description>Crab also supports tags. This page has some tags, as you can see below, although tags are probably more common with blog posts.
+If you click on a tag, you&amp;rsquo;ll be redirected to a page that shows all pages and posts with that tag. (For some tags, there is only this one page.)</description>
+    </item>
+    
+    <item>
+      <title>Two-column layout</title>
+      <link>https://oct8l.github.io/crab-example/features/two-column-layout/</link>
+      <pubDate>Sat, 18 Mar 2017 11:14:41 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/two-column-layout/</guid>
+      <description>This is what sidebar content looks like.
+Actually, this page has more info on:
+ alpha beta gamma   Crab allows you to put content in a second column on the right-hand side of the page.
+You could use this space to provide the reader with a quick summary of what the current page is all about.
+On mobile devices, the summary is rendered directly above the actual page content.</description>
+    </item>
+    
+    <item>
+      <title>Nested menus</title>
+      <link>https://oct8l.github.io/crab-example/features/nested-menus/</link>
+      <pubDate>Sat, 18 Mar 2017 11:14:35 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/nested-menus/</guid>
+      <description>Crab supports nested menus up to three levels deep.
+This is especially helpful for websites that focus on content with a fixed, pre-defined strucure.</description>
+    </item>
+    
+    <item>
+      <title>Responsive design</title>
+      <link>https://oct8l.github.io/crab-example/features/responsive-design/</link>
+      <pubDate>Sat, 18 Mar 2017 11:14:30 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/responsive-design/</guid>
+      <description>Crab&amp;rsquo;s design is responsive, it adapts to smaller screens of mobile devices.
+Check out this example site on your smartphone or tablet (or on your desktop computer if you&amp;rsquo;re currently on mobile).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://oct8l.github.io/crab-example/contact/</link>
+      <pubDate>Sat, 18 Mar 2017 10:59:56 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/contact/</guid>
+      <description>This is a an example contact page.
+ Contact the website author:
+Mister Crab
+42 Ocean Street
+Oceania, OC 98765
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.</description>
+    </item>
+    
+    <item>
+      <title>More blogging</title>
+      <link>https://oct8l.github.io/crab-example/blog/2017/02/more-blogging/</link>
+      <pubDate>Mon, 27 Feb 2017 21:30:00 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/blog/2017/02/more-blogging/</guid>
+      <description>This is yet another blog post to demonstrate the blog feature. It&amp;rsquo;s from a different month than other posts, to show you how the archive feature works.</description>
+    </item>
+    
+    <item>
+      <title>... items to show ...</title>
+      <link>https://oct8l.github.io/crab-example/more/items-to-show/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/more/items-to-show/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</description>
+    </item>
+    
+    <item>
+      <title>... the nested menus feature</title>
+      <link>https://oct8l.github.io/crab-example/more/the-nested-menus-feature/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/more/the-nested-menus-feature/</guid>
+      <description>Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>Another page</title>
+      <link>https://oct8l.github.io/crab-example/another/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/another/</guid>
+      <description>Just another demo page.</description>
+    </item>
+    
+    <item>
+      <title>Features</title>
+      <link>https://oct8l.github.io/crab-example/features/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/</guid>
+      <description>Some of Crab&amp;rsquo;s features are:
+ Responsive design Nested menus Two-column layout  Click on the links above to learn more.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://oct8l.github.io/crab-example/home/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/home/</guid>
+      <description>Summary: Crab is a clean Hugo theme for websites. Its features include responsiveness, nested menu support, two-column layout, tag and blog article support.
+ Welcome to Crab! Crab is a clean Hugo theme for websites.
+Some of its features:
+ Responsive design &amp;ndash; view it on mobile Nested menus &amp;ndash; try the menu above Two-column layout Tags Blog articles  A very popular quote:
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Some more menu ...</title>
+      <link>https://oct8l.github.io/crab-example/more/some-more-menu/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/more/some-more-menu/</guid>
+      <description>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.</description>
+    </item>
+    
+    <item>
+      <title>Third-level page #1</title>
+      <link>https://oct8l.github.io/crab-example/features/nested-menus/third-level-1/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/nested-menus/third-level-1/</guid>
+      <description>A third level page is rendered like this in the menu structure.</description>
+    </item>
+    
+    <item>
+      <title>Third-level page #2</title>
+      <link>https://oct8l.github.io/crab-example/features/nested-menus/third-level-2/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/nested-menus/third-level-2/</guid>
+      <description>A third level page is rendered like this in the menu structure.</description>
+    </item>
+    
+    <item>
+      <title>Third-level page #3</title>
+      <link>https://oct8l.github.io/crab-example/features/nested-menus/third-level-3/</link>
+      <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
+      
+      <guid>https://oct8l.github.io/crab-example/features/nested-menus/third-level-3/</guid>
+      <description>A third level page is rendered like this in the menu structure.</description>
+    </item>
+    
+  </channel>
+</rss>

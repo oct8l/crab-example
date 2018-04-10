@@ -27,9 +27,9 @@ If you click on a tag, you&amp;rsquo;ll be redirected to a page that shows all p
       <pubDate>Sat, 18 Mar 2017 11:14:41 +0100</pubDate>
       
       <guid>https://oct8l.github.io/crab-example/features/two-column-layout/</guid>
-      <description>{{% summary %}} This is what sidebar content looks like.
+      <description>This is what sidebar content looks like.
 Actually, this page has more info on:
- alpha beta gamma {{% /summary %}}  Crab allows you to put content in a second column on the right-hand side of the page.
+ alpha beta gamma   Crab allows you to put content in a second column on the right-hand side of the page.
 You could use this space to provide the reader with a quick summary of what the current page is all about.
 On mobile devices, the summary is rendered directly above the actual page content.</description>
     </item>

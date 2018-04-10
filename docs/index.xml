@@ -60,9 +60,9 @@ If you click on a tag, you&amp;rsquo;ll be redirected to a page that shows all p
       <pubDate>Sat, 18 Mar 2017 11:14:41 +0100</pubDate>
       
       <guid>https://oct8l.github.io/crab-example/features/two-column-layout/</guid>
-      <description>{{% summary %}} This is what sidebar content looks like.
+      <description>This is what sidebar content looks like.
 Actually, this page has more info on:
- alpha beta gamma {{% /summary %}}  Crab allows you to put content in a second column on the right-hand side of the page.
+ alpha beta gamma   Crab allows you to put content in a second column on the right-hand side of the page.
 You could use this space to provide the reader with a quick summary of what the current page is all about.
 On mobile devices, the summary is rendered directly above the actual page content.</description>
     </item>
@@ -93,8 +93,8 @@ Check out this example site on your smartphone or tablet (or on your desktop com
       <pubDate>Sat, 18 Mar 2017 10:59:56 +0100</pubDate>
       
       <guid>https://oct8l.github.io/crab-example/contact/</guid>
-      <description>{{% summary %}} This is a an example contact page. {{% /summary %}}
-Contact the website author:
+      <description>This is a an example contact page.
+ Contact the website author:
 Mister Crab
 42 Ocean Street
 Oceania, OC 98765
@@ -153,8 +153,8 @@ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo
       <pubDate>Sun, 05 Feb 2017 07:51:49 +0100</pubDate>
       
       <guid>https://oct8l.github.io/crab-example/home/</guid>
-      <description>{{% summary %}} Summary: Crab is a clean Hugo theme for websites. Its features include responsiveness, nested menu support, two-column layout, tag and blog article support. {{% /summary %}}
-Welcome to Crab! Crab is a clean Hugo theme for websites.
+      <description>Summary: Crab is a clean Hugo theme for websites. Its features include responsiveness, nested menu support, two-column layout, tag and blog article support.
+ Welcome to Crab! Crab is a clean Hugo theme for websites.
 Some of its features:
  Responsive design &amp;ndash; view it on mobile Nested menus &amp;ndash; try the menu above Two-column layout Tags Blog articles  A very popular quote:
  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>

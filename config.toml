@@ -8,6 +8,7 @@ relativeURLs = "true"
 
 [params]
 description = "A clean Hugo theme for websites"
+mainSections = ["blog", "features"]
 # logoimage = "images/logo.jpg"
 # copyright = "foo"
 
